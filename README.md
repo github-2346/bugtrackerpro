@@ -77,7 +77,7 @@ src/
 
 1. **Clone the repository**
 bash
-git clone 
+git clone https://github.com/github-2346/bugtrackerpro.git
 cd bugtrackerpro
 
 
@@ -88,6 +88,11 @@ npm install
 3. **Start development server**
 bash
 npm run dev
+
+4. **Open in browser**
+After running the command,it will show a local URL:
+ex http://localhost:5173
+Open it in your browser to view the application.
 
 
 ## 🔐 Demo Credentials
