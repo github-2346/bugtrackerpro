@@ -93,8 +93,8 @@ npm run dev
 
 4. **Open in browser**
 After running the command,it will show a local URL:
-ex http://localhost:5173
-Open it in your browser to view the application.
+http://localhost:5173
+- Open it in your browser to view the application.
 
 
 ## 🔐 Demo Credentials
