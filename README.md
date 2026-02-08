@@ -71,8 +71,9 @@ src/
 
 ### Prerequisites
 Make sure you have the following installed on your system:
-Node.js (v18 or above)
-npm (comes with Node.js)
+
+- Node.js (v18 or above)
+- npm (comes with Node.js)
 
 ### Installation
 
