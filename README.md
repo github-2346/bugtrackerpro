@@ -101,8 +101,8 @@ http://localhost:5173
 
 Use these credentials to login:
 
- Email | Password |
- dev@bugtracker.com | dev123 |
+ Email : dev@bugtracker.com 
+ password : dev123 
 
 ### LICENSE
 Open source for educational and portfolio purposes.
