@@ -2,7 +2,7 @@
 
 A fully functional Jira-like Bug/Issue Tracking System Built with Java springboot, React, TypeScript, and Tailwind CSS.
 
-## 🚀 Features
+## Features
 
 ### Core Functionality
 - **User Authentication: Register**, login, and JWT-based session management
@@ -11,7 +11,7 @@ A fully functional Jira-like Bug/Issue Tracking System Built with Java springboo
 - **Issue/Ticket Management**: Full CRUD operations with priority and status management
 - **Kanban Board**: Drag-and-drop interface with three columns (To Do → In Progress → Done)
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 - **React 19** - UI library
@@ -29,8 +29,8 @@ A fully functional Jira-like Bug/Issue Tracking System Built with Java springboo
 - **PostgreSQL/MySQL** database
 - **Swagger/OpenAPI** documentation
 
-## 📁 Project Structure
-
+## Project Structure
+```
 src/
 ├── components/
 │   ├── layout/
@@ -65,9 +65,10 @@ src/
 ├── App.tsx                  # Main app component
 ├── index.css                # Global styles
 └── main.tsx                 # Entry point
+```
 
 
-## 🚦 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Node.js 18+
@@ -90,14 +91,12 @@ bash
 npm run dev
 
 
-## 🔐 Demo Credentials
+## Demo Credentials
 
 Use these credentials to login:
 
  Email | Password |
  dev@bugtracker.com | dev123 |
 
-### LICENSE
-Open source for educational and portfolio purposes.
 
 Built with ❤️ using Java Spring Boot and React.
